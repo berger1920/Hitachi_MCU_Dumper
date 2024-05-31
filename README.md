@@ -19,3 +19,7 @@ If you need a different HAT, do not hesitate to contact me.
 
 
 ![3D_rendering](https://github.com/berger1920/Hitachi_MCU_Dumper/blob/main/Hitachi_H8_and_HD6301_ROMdumper_3D.jpg)
+
+![3D_rendering](https://github.com/berger1920/Hitachi_MCU_Dumper/blob/main/Hitachi_HD6301X0-Y0_SDIP-64_HAT_3D.jpg)
+
+![3D_rendering](https://github.com/berger1920/Hitachi_MCU_Dumper/blob/main/Hitachi_H8_FP-64_HAT_3D.jpg)
