@@ -17,3 +17,5 @@ PCBs designed so far:
 
 If you need a different HAT, do not hesitate to contact me.
 
+
+![3D_rendering](https://github.com/berger1920/Hitachi_MCU_Dumper/blob/main/Hitachi_H8_and_HD6301_ROMdumper_3D.jpg)
