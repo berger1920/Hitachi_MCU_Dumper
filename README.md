@@ -3,8 +3,6 @@ Dumper for Hitachi H8/300, HD6301Y0 and HD6301X0 microcontrollers
 
 This project aims to provide different PCBs, for the implementation of the internal ROM dumping system of different Hitachi microcontrollers, developed by Sean Riddle.
 
-A main PCB and various HATS for different Hitachi microcontroller types and packaging are offered.
-
 Original project by Sean Riddle: http://www.seanriddle.com/h8/300/
 (Where you can find the firmware, explanations on how it works, etc.)
 
