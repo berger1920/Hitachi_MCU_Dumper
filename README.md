@@ -5,7 +5,7 @@ This project aims to provide different PCBs, for the implementation of the inter
 
 Original project by Sean Riddle: http://www.seanriddle.com/h8/300/
 
-(Where you can find the firmware, explanations on how it works, etc.)
+(There you can find the firmware, explanations on how it works, etc.)
 
 PCBs designed so far:
 
