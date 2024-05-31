@@ -1,7 +1,7 @@
 # Hitachi MCU Dumper
-Dumper for Hitachi H8/300, HD6301Y0 and HD6301X0 microcontrollers
+Dumper for Hitachi H8/300 family, HD6301Y0 and HD6301X0 microcontrollers.
 
-This project aims to provide different PCBs, for the implementation of the internal ROM dumping system of different Hitachi microcontrollers, developed by Sean Riddle.
+This project aims to provide different PCBs, for the implementation of the internal ROM dumping system of different Hitachi MCUs, developed by Sean Riddle.
 
 Original project by Sean Riddle: http://www.seanriddle.com/h8/300/
 
