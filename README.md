@@ -7,7 +7,7 @@ Original project by Sean Riddle: http://www.seanriddle.com/h8/300/
 
 There you can find the firmware, explanations on how it works, etc.
 
-PCBs designed so far:
+PCBs designed by me so far:
 
 - ROM Dumper circuit
 - HAT for HD6301Y0 & HD6301X0 with SDIP-64 package
