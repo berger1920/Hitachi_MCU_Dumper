@@ -9,7 +9,7 @@ There you can find the firmware, explanations on how it works, etc.
 
 PCBs designed so far:
 
-- Dumper circuit
+- ROM Dumper circuit
 - HAT for HD6301Y0 & HD6301X0 with SDIP-64 package
 - HAT for HD6301Y0 & HD6301X0 with FP-64 package
 - HAT for H8/300 with SDIP-64 package
