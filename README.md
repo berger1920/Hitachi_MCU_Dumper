@@ -22,7 +22,7 @@ Note: I have been asked how to use a 27C512. It is very simple. As pin 1 of the 
 
 
 ![3D_rendering](https://github.com/berger1920/Hitachi_MCU_Dumper/blob/main/Hitachi_H8_and_HD6301_ROMdumper_3D.jpg)
-
+Main PCB 3D simulation. It is convenient to use sockets for PIC and EPROM.
 ![3D_rendering](https://github.com/berger1920/Hitachi_MCU_Dumper/blob/main/Hitachi_HD6301X0-Y0_SDIP-64_HAT_3D.jpg)
 
 ![3D_rendering](https://github.com/berger1920/Hitachi_MCU_Dumper/blob/main/Hitachi_H8_FP-64_HAT_3D.jpg)
