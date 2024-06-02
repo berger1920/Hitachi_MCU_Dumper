@@ -17,7 +17,7 @@ PCBs designed by me so far:
 
 If you need a different HAT, do not hesitate to contact me.
 
-[b]Note:[/b] I have been asked how to use a 27C512. It is very simple. As pin 1 of the EPROM socket is tied HIGH, just program the binary code starting at 0x8000 instead of the default 0x0000.  There is no need to make any modifications to the main PCB.
+![b]Note:![/b] I have been asked how to use a 27C512. It is very simple. As pin 1 of the EPROM socket is tied HIGH, just program the binary code starting at 0x8000 instead of the default 0x0000.  There is no need to make any modifications to the main PCB.
 
 
 
